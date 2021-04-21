@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+/.svelte
+/build
+/functions
+pnpm-lock.yaml
+package-lock.json
+.vercel
+.vercel_build_output
